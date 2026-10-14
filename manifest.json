@@ -1,0 +1,23 @@
+{
+  "schema": 1,
+  "products": [
+    {
+      "id": "SendingV2",
+      "name": "Sending V2",
+      "erase": {
+        "file": "SendingV2/SendingV2_erase.syx",
+        "sha256": "1ad3a874099622cc1e8c30dcc7bf2c69ed5e94ad8853415717f66ecf6659b294",
+        "size": 19
+      },
+      "channels": {
+        "stable": {
+          "version": "2.1",
+          "file": "SendingV2/SendingV2_v2.1.syx",
+          "sha256": "ea2144ac3971708fc9e4f1879bbcb8b7632681bea49a4e21106a20fde710eabe",
+          "size": 91078,
+          "published": "2026-10-13"
+        }
+      }
+    }
+  ]
+}
