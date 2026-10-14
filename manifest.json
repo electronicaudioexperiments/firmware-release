@@ -25,6 +25,24 @@
           "published": "2026-10-13"
         }
       }
+    },
+    {
+      "id": "PrismaticWall",
+      "name": "Prismatic Wall",
+      "erase": {
+        "file": "PrismaticWall/PrismaticWall_erase.syx",
+        "sha256": "c136ede006906ba645c50849b17c6056387456c0df971605707c57c8df459142",
+        "size": 19
+      },
+      "channels": {
+        "stable": {
+          "version": "1.1.1",
+          "file": "PrismaticWall/PrismaticWall_v1.1.1.syx",
+          "sha256": "951a19e6ce6dcf721b0c9e8abe9e93091847d6fc7d68487123b1c3117b7356b3",
+          "size": 121350,
+          "published": "2026-10-13"
+        }
+      }
     }
   ]
 }
