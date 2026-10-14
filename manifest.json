@@ -16,6 +16,13 @@
           "sha256": "ea2144ac3971708fc9e4f1879bbcb8b7632681bea49a4e21106a20fde710eabe",
           "size": 91078,
           "published": "2026-10-13"
+        },
+        "beta": {
+          "version": "2.2-beta",
+          "file": "SendingV2/SendingV2_v2.2-beta.syx",
+          "sha256": "3ea8b793256bac30309f4320bff91c8a25cc7cf16153e7ee051bac3e47719617",
+          "size": 91078,
+          "published": "2026-10-13"
         }
       }
     }
